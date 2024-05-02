@@ -1,13 +1,14 @@
 ## Contarct Address 
+ 0x8C1ee203dF9E1d03190859c26e833b037B2D3085
 
-0x0DAbc440052ED94FfE69de2D704b1F151bF12c16
+ 
 #### Explorer
-[Explorer](https://explorer-sphinx.shardeum.org/account/0x0dabc440052ed94ffe69de2d704b1f151bf12c16)
+https://testscan.bt.io/#/transaction/0x029319594649f0fec8af819e15892a54209f9cd974fc2c00ac3ddcbf971ce341
 
-# ShardEvents - Blockchain-Powered Event Platform
+# TronEvents - Blockchain-Powered Event Platform
 ## Description
 
-ShardEvents is a platform designed for organizing and participating in various community events for Shardchain. Users can engage in events listed on the platform, and upon closure, the prize pool is distributed among the winners.
+TronEvents is a platform designed for organizing and participating in various community events for Bittorent and Tron Blockchain . Users can engage in events listed on the platform, and upon closure, the prize pool is distributed among the winners.
 
 ## Problem Statement
 
@@ -21,7 +22,7 @@ ShardEvents addresses the challenge faced by non-crypto users by implementing ac
 
 ### Trust and Fairness Through Smart Contracts
 
-To mitigate issues related to delayed or unfair distribution of prizes, ShardEvents introduces a unique approach. Organizers are required to stake the prize amount when creating an event. This ensures a transparent and trustless process where, upon completion of the event, the smart contract automatically disburses the prize pool to the winners. This innovative feature enhances the integrity of events hosted on the platform and provides assurance to participants.
+To mitigate issues related to delayed or unfair distribution of prizes, TronEvents introduces a unique approach. Organizers are required to stake the prize amount when creating an event. This ensures a transparent and trustless process where, upon completion of the event, the smart contract automatically disburses the prize pool to the winners. This innovative feature enhances the integrity of events hosted on the platform and provides assurance to participants.
 
 
 ## How It Works
