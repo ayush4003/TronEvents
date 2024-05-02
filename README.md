@@ -14,11 +14,11 @@ TronEvents is a platform designed for organizing and participating in various co
 
 In the rapidly evolving world of blockchain technologies, many individuals interested in exploring decentralized applications (dApps) are often hindered by the complexities of traditional Ethereum-based EOA wallets. Additionally, organizers of blockchain events face challenges such as delayed or dishonest distribution of prizes, negatively impacting the overall user experience.
 
-## Solution - ShardEvents
+## Solution - TronEvents
 
 ### Gasless and User-Friendly Wallets
 
-ShardEvents addresses the challenge faced by non-crypto users by implementing account abstraction. Users can seamlessly interact with the platform using a gasless and user-friendly wallet generated through their email ID. This eliminates the need for users to create and manage Ethereum EOA wallets, simplifying the onboarding process for individuals new to blockchain technologies.
+TronEvents addresses the challenge faced by non-crypto users by implementing account abstraction. Users can seamlessly interact with the platform using a gasless and user-friendly wallet generated through their email ID. This eliminates the need for users to create and manage Ethereum EOA wallets, simplifying the onboarding process for individuals new to blockchain technologies.
 
 ### Trust and Fairness Through Smart Contracts
 
